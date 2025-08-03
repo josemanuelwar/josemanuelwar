@@ -1,2 +1,2 @@
-Hola soy 
-Jose manuel Sanchez Juarez
+Hello!
+My names is Jose manuel Sanchez Juarez
